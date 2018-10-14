@@ -1,0 +1,69 @@
+#locator { position:absolute;visibility:visible; left:10px; top:0px; height:100px; width:150px; z-index 200;
+
+}
+
+#Boultondowntheisle {
+	position: absolute; visibility: visible; left:500px; top:50px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; font-size: 32pt;
+	border-style:double; border-bottom-width: medium; border-top-width: medium;} 
+
+		
+#it {
+	position: absolute; visibility: inherit; left: 950px; top:50px; 
+}
+body{background-color: #FFF8E7}
+
+#stkevin {
+	position: absolute; visibility: visible; left:500px; top:135px;
+}
+
+#Harbor {
+	position: absolute; visibility: visible; left:500px; top:420px;
+	
+}
+#gallery {
+	margin: 10px 50px;
+	padding-top: 400px 
+		
+}
+
+
+
+
+
+#gallery img {
+	width: 200px;
+		padding: 10px;
+	filter:grayscale(100%);
+	width: 200px;
+	height: 200px;
+	
+	
+	
+}
+#gallery img:hover{
+	filter:grayscale(0);
+	transform: 1.1;
+	align: Left 
+}
+
+
+#meetus {
+	width: auto; height: auto; position: absolute; visibility:visible; left: 70px; top:100px;
+	
+}
+
+#Form1 {
+	position: absolute; visibility: visible; left:800px; top:100px;
+	border: medium; border-style: inset
+	
+	
+}
+
+
+
+
+
+
+
+

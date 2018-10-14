@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+.Header { font-family: fantasy;
+  font-size: large
+  font-style: oblique;
+  font-stretch: semi-condensed;
+  padding-top: 45px;
+  text-align: center;
+  border-style: groove;
+border-color: inherit;
+border-top: 30px}
